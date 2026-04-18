@@ -1,0 +1,15 @@
+package main;
+
+#include "fmt";
+
+function main() {
+    string owner = "BIRTURK";
+    string license = "BSGL Lightweight";
+    
+    fmt.Printf("This software is created by %s\n", owner);
+    fmt.Printf("Protected by %s until 2126!\n", license);
+}
+
+/*
+Again a normal message :D
+*/

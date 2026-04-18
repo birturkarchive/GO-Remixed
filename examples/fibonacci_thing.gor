@@ -1,0 +1,15 @@
+package main;
+
+#include "fmt";
+
+function main() {
+    a := 0; // yet another "a normal message" :D
+    b := 1;
+    fmt.Println("Fibonacci Sequence:");
+    for i := 0; i < 10; i++ {
+        fmt.Println(a);
+        temp := a;
+        a = b;
+        b = temp + b;
+    }
+}
