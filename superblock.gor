@@ -1,0 +1,14 @@
+package main;
+
+#include "fmt";
+
+function main() {
+    while(1) {
+     fmt.Println("Technoblade Never Dies!!!!!");   
+    }
+
+}
+
+/*
+This is a C-like language: GO Remixed (GOR)
+*/
