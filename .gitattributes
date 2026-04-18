@@ -1,1 +1,2 @@
 *.gor linguist-language=Go
+godfile linguist-language=Go
